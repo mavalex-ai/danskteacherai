@@ -1,12 +1,12 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
-  "main": "api-server.js",
+  "description": "DanskTeacherAI backend",
+  "main": "Backend2/api-server.js",
   "type": "module",
   "scripts": {
-    "start": "node api-server.js",
-    "dev": "node api-server.js"
+    "start": "node Backend2/api-server.js",
+    "dev": "node Backend2/api-server.js"
   },
   "keywords": [],
   "author": "",
